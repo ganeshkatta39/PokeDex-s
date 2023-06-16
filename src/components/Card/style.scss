@@ -1,0 +1,31 @@
+.card {
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  border-radius: 4px;
+  text-align: center;
+  padding: 10px;
+  background-color: #022c43;
+  color: aliceblue;
+
+  .cont {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+
+    border-radius: 4px;
+  }
+  h1 {
+    padding: 15px;
+  }
+
+  button {
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+  }
+}

@@ -1,0 +1,12 @@
+.btn_container {
+  button {
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: large;
+    background-color: #ffbf00cf;
+  }
+  display: flex;
+  justify-content: space-around;
+}
